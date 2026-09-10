@@ -1,0 +1,7 @@
+{
+  "name": "Interview Pro AI",
+  "description": "Practice Like It’s Real. Perform Like You’re Ready. AI-powered interview platform analyzing speech, emotion, confidence, eye contact, head pose, attention, and technical answer depth.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
